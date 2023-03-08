@@ -1,0 +1,8 @@
+.card-bg{
+background-image: url('/assets/bg.png');
+background-size: 290px 380px;
+background-repeat: no-repeat;
+background-position: center;
+width: 290px;
+height: 380px;
+}
